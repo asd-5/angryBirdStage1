@@ -1,2 +1,2 @@
-# angryBirdStage1
-Stage1 AngryBird
+# angryBirdsStage1
+Stage 1 Angry Birds
